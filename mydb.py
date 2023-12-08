@@ -11,6 +11,6 @@ cursorObject = dataBase.cursor()
 
 # create a database
 
-cursorObject.execute("CREATE DATABASE db1")
+cursorObject.execute("CREATE DATABASE db2")
 
 print("Database created")
